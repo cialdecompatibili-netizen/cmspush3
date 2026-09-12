@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Prezzi"
+    url: /#pricing
+  - title: "Blog"
+    url: /blog/
+  - title: "Shop"
+    url: /shop/
+  - title: "About"
+    url: /about/
+  - title: "Changelog"
+    url: /changelog/
