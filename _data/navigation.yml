@@ -9,7 +9,9 @@ main:
     url: /about/
   - title: "Changelog"
     url: /changelog/
-  - title: "Shop"
+  - title: "shop"
+    url: /shop/
+  - title: "Shop!"
     url: /shop/
   - title: "shop"
     url: /shop/
