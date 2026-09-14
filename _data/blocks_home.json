@@ -32,7 +32,7 @@
   {
     "id": "box1782418437639",
     "nome": "Nuovo box",
-    "enabled": true,
+    "enabled": false,
     "html": "<section style=\"padding:40px;text-align:center\">\n  <h2>Nuovo box</h2>\n  <p>caccola sparsa</p>\n</section>"
   },
   {
