@@ -5,13 +5,9 @@ main:
     url: /#pricing
   - title: "Blog"
     url: /blog/
+  - title: "Shop!"
+    url: /shop/
   - title: "About"
     url: /about/
   - title: "Changelog"
     url: /changelog/
-  - title: "shop"
-    url: /shop/
-  - title: "Shop!"
-    url: /shop/
-  - title: "Shop"
-    url: /shop/
